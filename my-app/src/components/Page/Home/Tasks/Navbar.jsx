@@ -6,6 +6,7 @@ export default function Navbar() {
             <div className="logo">
                 <img src="../img/Logo.png" alt="logo" />
             </div>
+            <div class="iconmenu"><i class="fa-solid fa-bars"></i></div>
             <div className="menu">
                 <div>Home</div>
                 <div>Market</div>
