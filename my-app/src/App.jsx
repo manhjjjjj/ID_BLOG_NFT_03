@@ -1,11 +1,11 @@
 import './App.css';
-import Explore from './components/Page/Explore/ExplorePage';
+import Exhibition from './components/Page/Exhibition/ExhibitionPage';
 
 
 function App() {
   return (
     <>
-      <Explore/>
+      <Exhibition/>
     </>
   );
 }
