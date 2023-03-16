@@ -1,11 +1,12 @@
 import './App.css';
-import Exhibition from './components/Page/Exhibition/ExhibitionPage';
+import AuthorCollector from './components/Page/Author&Collector/AuthorCollectorPage';
+
 
 
 function App() {
   return (
     <>
-      <Exhibition/>
+      <AuthorCollector/>
     </>
   );
 }
