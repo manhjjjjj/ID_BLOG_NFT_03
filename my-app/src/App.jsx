@@ -1,11 +1,11 @@
 import './App.css';
-import Market from './components/Page/Market/MarketPage';
+import Explore from './components/Page/Explore/ExplorePage';
 
 
 function App() {
   return (
     <>
-      <Market/>
+      <Explore/>
     </>
   );
 }
