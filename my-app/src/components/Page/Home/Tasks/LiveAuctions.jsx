@@ -74,6 +74,28 @@ export default function LiveAuctions() {
                         <button>Place a bid</button>
                     </div>
                 </div>
+
+                <div className="cards-NFTs">
+                    <div className="NFTCards">
+                        <img src="../img/Image Placeholder.png" alt="" />
+                        <div className="NFT-title-name">Inner State : Joy</div>
+                        <div className="profiles">
+                            <div className="img-user"><img src="../img/Image Placeholder.png" alt="" /></div>
+                            <div className="title-user">Cameron Williamson</div>
+                        </div>
+                        <div className="cardboard2">
+                            <div className="Current">
+                                <div className="Cbid">Current Bid :</div>
+                                <div className="eth">0.4435 ETH</div>
+                            </div>
+                            <div className="Current-endIN">
+                                <div className="Cbid">End in :</div>
+                                <div className="eth">10h 12m 32s</div>
+                            </div>
+                        </div>
+                        <button>Place a bid</button>
+                    </div>
+                </div>
             </div>
         </div>
     )
